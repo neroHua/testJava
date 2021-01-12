@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail xmlns="http://www.huadeyou.test/mail"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.huadeyou.test/mail mail.xsd">
+	<from>a</from>
+	<to>b</to>
+	<title>hello</title>
+	<content>world</content>
+</mail>
