@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.huadeyou.test/mail"
+	elementFormDefault="qualified">
+
+	<element name="mail">
+		<complexType>
+			<sequence>
+				<element name="from"></element>
+				<element name="to"></element>
+				<element name="title"></element>
+				<element name="content"></element>
+			</sequence>
+		</complexType>
+	</element>
+
+</schema>
